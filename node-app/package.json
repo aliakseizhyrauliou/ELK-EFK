@@ -1,0 +1,8 @@
+{
+    "name": "node-example",
+    "version": "0.0.1",
+    "dependencies": {
+      "express": "^4.16.0",
+      "@fluent-org/logger": "^1.0.2"
+    }
+  }
